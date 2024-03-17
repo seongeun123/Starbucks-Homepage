@@ -7,7 +7,9 @@
 
 -> 14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS
 
-<a href="https://fastcampus.co.kr/dev_online_ccsb"> <h3>:muscle: Problem Solving </h3> </a>
+<a href="https://fastcampus.co.kr/dev_online_ccsb"> <h3>:muscle: 14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS </h3> </a>
+
+
 https://fastcampus.co.kr/dev_online_ccsb 
 
 <제작 결과>
