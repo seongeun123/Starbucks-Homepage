@@ -2,7 +2,9 @@
 HTML, CSS, JS 뱃지 넣기
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 패스트 캠퍼스의 ‘한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online - Part 1’ 강의를 따라 작성했습니다.
 
