@@ -9,6 +9,7 @@
 
 
 :small_red_triangle_down: 패스트캠퍼스 강의 페이지 바로가기
+[14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS](https://fastcampus.co.kr/dev_online_ccsb)
 <a href="https://fastcampus.co.kr/dev_online_ccsb"> <h3>:muscle: 14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS </h3> </a>
 (링크)
 
