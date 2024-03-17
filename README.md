@@ -8,7 +8,7 @@
 
 
 
-### 강의 페이지 바로가기
+패스트캠퍼스 강의 페이지 바로가기
 <a href="https://fastcampus.co.kr/dev_online_ccsb"> <h3>:muscle: 14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS </h3> </a>
 
 
@@ -26,6 +26,6 @@
 
 강의를 끝까지 들으면 아래 데모 페이지처럼 근사하게 만들 수 있습니다. 저도 강의를 계속 듣고 확장시켜서 완성본을 업로드할 예정입니다~~ 
 
-
+데모 페이지 바로가기
 <a href="https://priceless-bhabha-83fc0d.netlify.app/"> <h3>:muscle: 데모 페이지 </h3> </a>
 
