@@ -2,6 +2,7 @@
 패스트 캠퍼스의 ‘한 번에 끝내는 프론트엔드 개발 초격차 패키지 Online - Part 1’ 강의를 따라 작성했습니다.
 
 -> 14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS
+
 https://fastcampus.co.kr/dev_online_ccsb 
 
 <제작 결과>
@@ -16,5 +17,6 @@ https://fastcampus.co.kr/dev_online_ccsb
 강의를 끝까지 들으면 아래 데모 페이지처럼 근사하게 만들 수 있습니다. 저도 강의를 계속 듣고 확장시켜서 완성본을 업로드할 예정입니다~~ 
 
 -> 스타벅스 웹사이트 예제 페이지 
+
 https://priceless-bhabha-83fc0d.netlify.app/
 
