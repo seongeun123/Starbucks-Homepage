@@ -2,7 +2,7 @@
 HTML, CSS, JS 뱃지 넣기
 
 
-<img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
