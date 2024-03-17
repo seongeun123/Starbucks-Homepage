@@ -10,7 +10,7 @@
 
 :small_red_triangle_down: 패스트캠퍼스 강의 페이지 바로가기
 <a href="https://fastcampus.co.kr/dev_online_ccsb"> <h3>:muscle: 14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS </h3> </a>
-
+(링크)
 
 
 ## 제작 결과
@@ -24,7 +24,7 @@
 HTML, CSS, 자바스크립트를 이제 막 알게 된 저도 따라 만들 수 있는 예제였어서 신기하고 뿌듯했습니다!
 
 
-강의는 VSCode 사용하는 법, HTML, CSS, JS, 스타벅스 예제 순입니다
+강의는 VSCode 사용하는 법, HTML, CSS, JS, 스타벅스 예제 순입니다 (이모티콘)
 
 (이 뒤에도 코드 버전 관리 방법, 마크 다운, 데스크탑 모드로 개발하기 등 강의가 계속 있습니다,,,) 
 
@@ -34,4 +34,5 @@ HTML, CSS, 자바스크립트를 이제 막 알게 된 저도 따라 만들 수 
 
 :small_red_triangle_down: 데모 페이지 바로가기
 <a href="https://priceless-bhabha-83fc0d.netlify.app/"> <h3>:muscle: 데모 페이지 </h3> </a>
+(링크)
 
