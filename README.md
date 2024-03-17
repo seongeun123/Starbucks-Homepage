@@ -9,7 +9,9 @@
 
 
 :small_red_triangle_down: 패스트캠퍼스 강의 페이지 바로가기
+
 [14일 만에 만드는 스타벅스 웹 사이트 with HTML&CSS](https://fastcampus.co.kr/dev_online_ccsb)
+
 
 
 ## 제작 결과
@@ -32,7 +34,5 @@ HTML, CSS, 자바스크립트를 이제 막 알게 된 저도 따라 만들 수 
 
 
 :small_red_triangle_down: 데모 페이지 바로가기 
-[데모 페이지](https://priceless-bhabha-83fc0d.netlify.app/)
-<a href="https://priceless-bhabha-83fc0d.netlify.app/"> <h3>:muscle: 데모 페이지 </h3> </a>
-(링크)
 
+[데모 페이지](https://priceless-bhabha-83fc0d.netlify.app/)
