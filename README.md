@@ -73,21 +73,24 @@
 
 - 가운데 정렬 방법
   
-    width: 원하는 값 설정;
-    margin: 0 auto;
+      width: 원하는 값 설정;
+      margin: 0 auto;
 
 - 사진 같은 인라인 요소는 여백이 존재한다. 아래 코드로 여백을 없앨 수 있다.
 
-    display: block;
+      display: block;
+
 
 
 - 수직 가운데 정렬 방법 : 수직방향으로 끝점을 잡고 margin으로 auto값을 계산한다.
 
-    (height가 지정되어 있어야 함)
-    position: absolute; 
-    top: 0;
-    bottom:0;
-    margin:auto;
+      (height가 지정되어 있어야 함)
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+
+
    
 </br>
 
