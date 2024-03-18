@@ -15,9 +15,21 @@
 </br>
 
 ## 제작 결과
-(화면 이미지 보여주기)
+
+로고, 서브메뉴, 검색창, 메인메뉴를 만들었습니다
+
 ![전체화면1](https://github.com/seongeun123/Starbucks-Homepage/assets/97885785/714b4580-f8db-4f1e-8224-1226eabb6616)
+
+</br>
+
+돋보기가 그려진 입력창을 클릭하면 돋보기가 사라지면서 통합검색 글자가 나타납니다.
+
 ![전체화면2](https://github.com/seongeun123/Starbucks-Homepage/assets/97885785/975e66ff-8638-4307-82d6-b158f9f53482)
+
+</br>
+
+메인 메뉴 위에 마우스를 올리면 메뉴 글씨가 초록색으로 바뀌면서 하위 메뉴가 보입니다
+
 ![전체화면3](https://github.com/seongeun123/Starbucks-Homepage/assets/97885785/52d70991-b588-49f7-b3c3-3ffc2f8d24eb)
 
 </br>
