@@ -103,16 +103,22 @@
     자바스크립트로 동작시키려고 하는데, 동작이 void 하다 - 아무것도 없다.
 
 - 로고를 잠깐 사라지게 하는 법.(안보이게 하는법)
-display: none;
+
+  
+      display: none;
+
 
 - 버튼을 만들 때는 사용자가 쉽게 누를 수 있도록 UI에 신경써야 한다.
   ex) 글자 배경색을 추가
 
-- 글자 밑줄 지우는 법: 
-   text-decoration: none;
+- 글자 밑줄 지우는 법:
+  
+      text-decoration: none;
 
 - 가상요소 설정방법
-  before content: ""
+
+
+      before content: ""
 
 
 - setAttribute() : HTML의 속성을 지정할 때 사용하는 메소드
