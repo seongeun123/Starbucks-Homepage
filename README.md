@@ -16,6 +16,9 @@
 
 ## 제작 결과
 (화면 이미지 보여주기)
+![전체화면1](https://github.com/seongeun123/Starbucks-Homepage/assets/97885785/714b4580-f8db-4f1e-8224-1226eabb6616)
+![전체화면2](https://github.com/seongeun123/Starbucks-Homepage/assets/97885785/975e66ff-8638-4307-82d6-b158f9f53482)
+![전체화면3](https://github.com/seongeun123/Starbucks-Homepage/assets/97885785/52d70991-b588-49f7-b3c3-3ffc2f8d24eb)
 
 </br>
 
