@@ -56,7 +56,7 @@ header .sub-menu{
 }
 header .sub-menu ul.menu{
     font-family:arial, sans-serif; /*서브 메뉴 글씨체 바꾸기 */
-    display:flex; /*서브 메뉴 가장 왼쪽에 있는 검은줄 지우기*/ 
+    display:flex; /*서브 메뉴를 수평 방향으로 정렬하기*/ 
 }
 header .sub-menu ul.menu li{
     position:relative;
