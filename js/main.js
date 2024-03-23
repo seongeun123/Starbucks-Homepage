@@ -12,6 +12,6 @@ searchInputEl.addEventListener('focus', function() {
 });
 
 searchInputEl.addEventListener('blur', function() { /*클래스를 지우는 함수*/
-    searchEl.classList.add('focused');
+    searchEl.classList.remove('focused');
     searchInputEl.setAttribute('placeholder', ''); 
 });
